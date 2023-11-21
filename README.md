@@ -3,13 +3,17 @@
 
 # PROGRAMS
 
-Rusmay menu is GitHub replace classic menu in GitHub (account).
+Rusmay menu is GitHub replace classic menu in GitHub (account)
+
 RusmaysPreview (old menu in GitHub)
-GCM Menu locals information for explain my projects.
-Test-app there I studied and played Python.
-Rafael my favorite. Old whatsapp bot, now not works. But, works in your desktop!
-Rafael-GUI first program with library tkinter.
-Programs locate httpsgithub.comRusmaySpace
+
+GCM Menu locals information for explain my projects
+
+Test-app there I studied and played Python
+
+Rafael my favorite. Old whatsapp bot, now not works. But, works in your desktop
+
+Rafael-GUI first program with library tkinter
 
 # GAMES
 
@@ -17,11 +21,15 @@ Programs locate httpsgithub.comRusmaySpace
 
 # OTHERS
 
-Exteleon Mod 
+Exteleon Mod
+
 Better Weapons Mod
+
 SuperSpeedRun Mod
+
 RusmayARTs Mod
-Mods locate (aside from GitHubs) httpslegacy.curseforge.commembersgcm_studioprojects
+
+Mods locate (aside from GitHubs): Minecraft Inside, CurseForge, Mody-minecraft, MCGolem, GCM DEV VK
 
 # IDEAS
 
