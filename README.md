@@ -3,9 +3,7 @@
 
 # PROGRAMS
 
-Rusmay: menu is GitHub replace classic menu in GitHub (account)
-
-RusmaysPreview: old menu in GitHub
+RusmayPreview: menu is GitHub replace classic menu in GitHub (account)
 
 GCM Menu: locals information for explain my projects
 
