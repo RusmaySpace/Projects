@@ -5,9 +5,9 @@
 
 RusmaySpace: replace classic menu in GitHub (account)
 
-GCM Menu: locals information for explain my projects
+GCM Menu: locals information to explain my projects
 
-Test-app: there I studied and played Python
+Test-app: here I studied and played Python
 
 Rafael: my favorite. Old whatsapp bot, now not works. But, works in your desktop
 
