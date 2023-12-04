@@ -13,6 +13,8 @@ Rafael: my favorite. Old whatsapp bot, now not works. But, works in your desktop
 
 Rafael-GUI: first program with library tkinter
 
+RUSAM: A program for spam in any messenger
+
 # GAMES
 
 --
