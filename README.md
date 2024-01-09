@@ -21,6 +21,8 @@ RUSAM: A program for spam in any messenger
 
 # OTHERS
 
+I owner CoalDesign and GuildSpire (VK).
+
 Exteleon Mod
 
 Better Weapons Mod
